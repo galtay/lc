@@ -1,2 +1,2 @@
-# lc
-langchain stuff
+# llm-toolkit
+recipes and examples
